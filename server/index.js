@@ -33,7 +33,7 @@ app.use(errorHandler);
 // }
 
 app.get("/",(req,res)=>{
-  res.send("APP RUNNING OK")
+  res.send("APP RUNNING OK sd")
 })
 
 
